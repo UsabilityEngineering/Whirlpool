@@ -4,9 +4,9 @@ Replace this text with a brief introduction to the problem space.
 
 ## Team Members
 
-* **Kyle Handy** - Summary of contributions
-* **Kyle Rhoads** - Summary of contributions
-* **Eric DeMoney** - Summary of contributions
+* **Kyle Handy** - Did everything
+* **Kyle Rhoads** - solid work
+* **Eric DeMoney** - Did nothing
 
 # User-Centered Design Artifacts
 
