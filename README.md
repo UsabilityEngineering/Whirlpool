@@ -18,9 +18,8 @@ The problem space we chose to work on is laundry. Everybody hates doing laundry,
 
 Executive summary:
 * Investigated user experiences with laundry services to identify user patterns and needs
-
-      * Gathered information to make **knowledgeable** changes in order to make a more **user centered design**
-      * Obtained input from users on **features** that could be **added or removed**
+     * Gathered information to make **knowledgeable** changes in order to make a more **user centered design**
+     * Obtained input from users on **features** that could be **added or removed**
      
 * **Online Survey** of college students and low income families (n=12) gave insight into the laundromat problem space
 * **Naturalistic Observation** of college students and low income families (n=12) gave information about real life experiences and issues
