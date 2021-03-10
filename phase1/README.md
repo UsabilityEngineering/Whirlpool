@@ -7,11 +7,11 @@ B) Naturalistic Observation - We used naturalistic observation so we could obser
 
 Survey - We chose to use a survey to supplement our observations so we could get input from our target audience of what they would want out of our product. This will give us input on what the users are thinking of their experience, which will go well with the data we have of watching them actually do it.
 
-C) Sample Sizes - 
+C) Sample Sizes:
 
-Naturalistic Observation: N = 4
+Naturalistic Observation - N = 4
 
-Survey: N = 18
+Survey - N = 18
 
 ## Findings
 
