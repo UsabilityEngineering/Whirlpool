@@ -16,7 +16,7 @@ The problem space we chose to work on is laundry. Everybody hates doing laundry,
 
 # Phase 1: Requirements Gathering
 
-Executive summary:
+**_Executive summary:_**
 * Investigated user experiences with laundry services to identify user patterns and needs
      * Gathered information to make **knowledgeable** changes in order to make a more **user centered design**
      * Obtained input from users on **features** that could be **added or removed**
