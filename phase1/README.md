@@ -15,6 +15,7 @@ Survey: N = 18
 
 ## Findings
 
+All of our users were students and low income families. We think these users accurately represent our user base because they represent a majority of people that use laundromats. We do recognize that this may be excluding some minority users that may use our product. We found that students were more likely to be receptive to improving their laundry experience with technology while families were more skeptical. Along with this, about half of all users use some sort of timer to keep track of when their laundry will be done. We also found that almost everybody does something else while waiting for their laundry, however some people are worried about theft so they wait and watch. 
 
 
 ## Conclusions
