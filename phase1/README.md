@@ -23,7 +23,7 @@ The way users interact with our product needs to be more streamlined. Our natura
 
 
 ## Caveats
-One caveat with our research is it is harder than anticipated to find enough users from our specific demographic. We have enough data to make observations, however some of it is from different demographics than we specified which could make the data more confusing. Although we found out we could expand our demographic, the users in the study did not necessarily satisfy our new found demographic. Along with that, lots of users said they would like improvements to their laundry machines, however did not give very much information on what they would like to be improved. We may want to consider adding another method (such as an interview) to get more detailed information from our users.
+One caveat with our research is it is harder than anticipated to find enough users from our specific demographic. We have enough data to make observations, however some of it is from different demographics than we specified which could make the data more confusing. Although we found out we could expand our demographic, the users in the study did not necessarily satisfy our new group of interest. Along with that, lots of users said they would like improvements to their laundry machines, however did not give very much information on what they would like to be improved. We may want to consider adding another method (such as an interview) to get more detailed information from our users.
 
 
 ## Supplementary Materials
