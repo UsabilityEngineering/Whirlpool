@@ -29,7 +29,7 @@ Executive summary:
 * **Students and low income families** who use laundromats are in favor of improving their laundry experience.
     * Students expressed **more enthusiasm** about adding more technology.
     * Low income parents are **more hesitant** about utilizing new convenient features. 
-* Planned feature set was too **time consuming** based on reception from rushed users.
+* Our planned features were seen as too **time consuming** based on reception from rushed users.
 * Most survey participants **do not wash** their clothes at a laundromat, but provide responses based on personal experiences.
 * **Designed personas and scenarios** to represent users with different concerns:
    * Jack - a young college student who does not know how to do laundry
