@@ -1,7 +1,7 @@
 # Whirlpool, Phase 1: Requirements Gathering
 
 ## Methods
-A) The requirements gathering techniques we used are naturalistic observation and survey.
+A) The requirements gathering techniques we used are naturalistic observation and a survey.
 
 B) Naturalistic Observation - We used naturalistic observation so we could observe how people currently do their laundry to find ways that we can improve our product to match the inefficiencies with their current method. We thought this method would also provide us with good qualitative data that we can experience first hand rather than someone tellings us about their experience after the fact.
 
