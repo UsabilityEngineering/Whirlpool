@@ -19,7 +19,7 @@ All of our users were students and low income families. We think these users acc
 
 
 ## Conclusions
-
+The way users interact with our product needs to be more streamlined. Our naturalistic observation study concluded that those in a hurry will often overlook or choose not to utilize our product to save time. We also found that our demographic is a bit wider than we anticipated, we included college students and low income families but also found that lots of people whose washers or driers are broken also frequent laundromats. This expands our demographics a bit and will allow us to seek a wider range of users in the future.
 
 
 ## Caveats
