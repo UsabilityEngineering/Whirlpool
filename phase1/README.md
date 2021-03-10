@@ -9,9 +9,9 @@ Survey - We chose to use a survey to supplement our observations so we could get
 
 C) Sample Sizes:
 
-Naturalistic Observation - N = 4
+Naturalistic Observation: N = 4
 
-Survey - N = 18
+Survey: N = 18
 
 ## Findings
 
