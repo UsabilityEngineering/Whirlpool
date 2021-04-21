@@ -1,3 +1,3 @@
-## Phase 2: Interaction Design
+# Phase 2: Interaction Design
 
-*Wireframe*
+## Wireframe
