@@ -9,16 +9,21 @@ The screen below is the starting page for our mobile app. The bottom navigation 
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/home.png?raw=true)
 
+If a user wants to reserve a machine, they can click on the "Res" section of the navigation bar. The first area of the "Res" section contains a search bar to look for launrdomats nearby, it also has a list of previously used laundromats to save the user some time if they go to the laundromat often. The stars next to the store names represent the users favorite stores. Users can toggle their favorites so they will always go to the top of the recents list, making it easy for them to select their most used laundromats.
+
+![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/stores.png?raw=true)
+
+Once the user selects a store, it opens up that specific stores information. Included in this information is a map of the store that will be color coded to show open and occupied machines. Below the map is a list of open machines, the user can select which machines they need in order to reserve them. Once they select their machines and click Done, the users machines will be reserved for one hour and they are redirected to the home page. The reservation page is shown below:
+
+![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/reserve.png?raw=true)
+
 
 To add a machine, the user must simply press the plus button and take a picture of a QR code on the machine of their choice. The view of what this looks like is shown below.
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/pic_screen.png?raw=true)
-We decided to do the adding of machine this way because it is simple and easy. From our user research data, we learned that some of our previous features were seen as too complicated and confusing to use. Our users said they would prefer starting their laundry to be quick and easy rather than compicated with extra features, so that is what we went with here. 
 
-![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/stores.png?raw=true)
+We decided to do the adding of machines this way because it is simple and easy. From our user research data, we learned that some of our previous features were seen as too complicated and confusing to use. Our users said they would prefer starting their laundry to be quick and easy rather than compicated with extra features, so that is what we went with here. 
 
-
-![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/reserve.png?raw=true)
 
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/stats.png?raw=true)
