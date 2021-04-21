@@ -1,6 +1,6 @@
 # Phase 2: Interaction Design
 
-## Wireframe
+## Wireframes
 
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/home.png?raw=true)
