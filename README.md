@@ -41,7 +41,8 @@ The problem space we chose to work on is laundry. Everybody hates doing laundry,
 
 # Phase 2: Interaction Design
 
-*Coming Soon*
+**_Executive summary:_**
+
 
 [Full phase 2 report](phase2/)
 
