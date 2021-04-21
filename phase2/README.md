@@ -35,12 +35,15 @@ Typically, the big red circle that says "Simulate Notification" will not be ther
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/washer_notif.png?raw=true)
 
+The notification will alert the user that their machine is done and that they need to return to get their clothes. We decided to include this because the majority of our users said that they leave the laundromat once they start their laundry. Since most users will not be around when their machines are complete, we thought this was the perfect way to alert them that their laundry is done and they need to get back. This helps save the user save time, but it also will help the laundromat to keep their customers cycling in and out quicker which makes them more money. 
+
+We also have wireframes that simulate the rest of this users interaction. The pictures below show what that would look like:
+
+![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/dryer_prenotif.png?raw=true)
+
+![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/dryer_notif.png?raw=true)
+
 
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/stats.png?raw=true)
 
-
-![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/dryer_prenotif.png?raw=true)
-
-
-![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/dryer_notif.png?raw=true)
