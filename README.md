@@ -46,7 +46,9 @@ The problem space we chose to work on is laundry. Everybody hates doing laundry,
 * Used our **user research data** and our **personas/scenarios** in order to gain more insight for our design
 * We designed our wireframes with our **target audience** in mind
     * **College students and low income families** are our main target audiences
-* Our prototype is **comprehensive** and includes all functionality
+* Our prototype is **comprehensive** and includes all functionality that will be found in the real app
+* Our wireframes were designed to be **easy and simple to use**
+    * Some of our target audience is not **tech savvy**, so it is important our app is easy to use
 
 [Full phase 2 report](phase2/)
 
