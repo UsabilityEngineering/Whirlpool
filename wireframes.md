@@ -1,3 +1,4 @@
 # Wireframes
 
-<img src="https://github.com/UsabilityEngineering/Whirlpool/tree/master/phase2/Pictures/comp_one.png" width=350 aign=left>
+![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/comp_one.png?raw=true)
+
