@@ -10,7 +10,7 @@ The screen below is the starting page for our mobile app. The bottom navigation 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/home.png?raw=true)
 
 
-To add a machine, the user must simply press the plus button and take a picture of a QR code on their machine. The view of what this looks like is shown below.
+To add a machine, the user must simply press the plus button and take a picture of a QR code on the machine of their choice. The view of what this looks like is shown below.
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/pic_screen.png?raw=true)
 We decided to do the adding of machine this way because it is simple and easy. From our user research data, we learned that some of our previous features were seen as too complicated and confusing to use. Our users said they would prefer starting their laundry to be quick and easy rather than compicated with extra features, so that is what we went with here. 
