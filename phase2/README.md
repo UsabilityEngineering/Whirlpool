@@ -57,6 +57,8 @@ Lastly, we have our "Stats" section that can be accessed from any other page. Th
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/stats.png?raw=true)
 
 
+Overall, we designed our wireframes to be as simple and user friendly as possible while still considering our user research data and personas/scenarios. We believe that this design is easy to use and includes several design aspects that will make it simpler for our target audience to use.
+
 ## Supplementary Materials
 
 [Comprehensive Wireframes](https://github.com/UsabilityEngineering/Whirlpool/blob/master/wireframes.md)
