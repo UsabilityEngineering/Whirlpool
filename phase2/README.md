@@ -30,7 +30,7 @@ Once a machine's QR code has been scanned, it will be added to the home page to 
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/washer_home.png?raw=true)
 
-If the users need more than one machine, they can simply press the plus button again and scan another machine. If this user required a drier as well, this is what it would look like after scanning the driers QR code:
+If something happens and the user needs to stop their laundry, they can click the minus button to stop their machine at any time. If the users need more than one machine, they can simply press the plus button again and scan another machine. If this user required a drier as well, this is what it would look like after scanning the driers QR code:
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/washer_prenotif.png?raw=true)
 
