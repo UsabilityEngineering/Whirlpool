@@ -44,6 +44,7 @@ We also have wireframes that simulate the rest of this users interaction. The pi
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/dryer_notif.png?raw=true)
 
 
+Lastly, we have our "Stats" section that can be accessed from any other page. This section helps the user to learn about their habits doing laundry, such as their most visited store or average time spents doing laundry. We included this section because we learned from our user research that most people who use laundry mats are students or low income families. We felt like these types of users would be interested in things like how long they typically take at the laundromat in order to plan around it. 
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/stats.png?raw=true)
 
