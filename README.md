@@ -4,8 +4,8 @@ The problem space we chose to work on is laundry. Everybody hates doing laundry,
 
 ## Team Members
 
-* **Kyle Handy** - Executive Summary and Personas/Scenarios
-* **Kyle Rhoads** - Executive Summary and Conclusion/Caveats
+* **Kyle Handy** - Executive Summary, Personas/Scenarios, and Wireframe/Prototype
+* **Kyle Rhoads** - Executive Summary, Conclusion/Caveats, and Wireframe/Prototype
 * **Eric DeMoney** - Methods and Findings
 
 # User-Centered Design Artifacts
