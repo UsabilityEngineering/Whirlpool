@@ -9,15 +9,15 @@ The screen below is the starting page for our mobile app. The bottom navigation 
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/home.png?raw=true)
 
-If a user wants to reserve a machine, they can click on the "Res" section of the navigation bar. The first area of the "Res" section contains a search bar to look for launrdomats nearby, it also has a list of previously used laundromats to save the user some time if they go to the laundromat often. The stars next to the store names represent the users favorite stores. Users can toggle their favorites so they will always go to the top of the recents list, making it easy for them to select their most used laundromats.
+If a user wants to reserve a machine, they can click on the "Res" section of the navigation bar. The first area of the "Res" section contains a search bar to look for laundromats nearby, it also has a list of previously used laundromats to save the user some time if they go to the laundromat often. The stars next to the store names represent the users favorite stores. Users can toggle their favorites so they will always go to the top of the recents list, making it easy for them to select their most used laundromats.
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/stores.png?raw=true)
 
-Once the user selects a store, it opens up that specific stores information. Included in this information is a map of the store that will be color coded to show open and occupied machines. Below the map is a list of open machines, the user can select which machines they need in order to reserve them. Once they select their machines and click Done, the users machines will be reserved for one hour and they are redirected to the home page. The reservation page is shown below:
+Once the user selects a store, it opens up that specific store's information. Included in this information is a map of the store that will be color coded to show open and occupied machines. Below the map is a list of open machines, the user can select which machines they need in order to reserve them. Once they select their machines and click Done, the users machines will be reserved for one hour and they are redirected to the home page. The reservation page is shown below:
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/reserve.png?raw=true)
 
-If a user has already reserved machines in one store, they will not be allowed to reserve more machines at a different store. They are still able to view the other stores and their availablity, however if they go to the reserve page it will not let them reserve more machines, this view is shown below:
+If a user has already reserved machines in one store, they will not be allowed to reserve more machines at a different store. They are still able to view the other stores and their availability, however if they go to the reserve page it will not let them reserve more machines, this view is shown below:
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/no_reserve.png?raw=true)
 
@@ -26,7 +26,7 @@ Users are not required to reserve any machines, however it will ensure that ther
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/pic_screen.png?raw=true)
 
-We decided to do the adding of machines this way because it is simple and easy. From our user research data, we learned that some of our previous features were seen as too complicated and confusing to use. Our users said they would prefer starting their laundry to be quick and easy rather than compicated with extra features, so that is what we went with here. Along with that, our personas helped us realize that not everyone who uses this app will be very tech savvy, so taking a picture of a QR code and letting the computer do the work is the best way to avoid any human errors.
+We decided to do the adding of machines this way because it is simple and easy. From our user research data, we learned that some of our previous features were seen as too complicated and confusing to use. Our users said they would prefer starting their laundry to be quick and easy rather than complicated with extra features, so that is what we went with here. Along with that, our personas helped us realize that not everyone who uses this app will be very tech savvy, so taking a picture of a QR code and letting the computer do the work is the best way to avoid any human errors.
 
 Once a machine's QR code has been scanned, it will be added to the home page to track its progress. From our user research, we learned that over half of our research participants use a timer to keep track of their laundry. That inspired us to create this progress chart which tells the user how close their laundry is to being complete. This view is shown below:
 
@@ -36,15 +36,15 @@ If the users need more than one machine, they can simply press the plus button a
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/washer_prenotif.png?raw=true)
 
-We decided to average out the progress of each machine for the progress chart rather than having separate charts for each machine. We believe this makes the design more simple and give a better overarching view of when all the laundry will be complete.
+We decided to average out the progress of each machine for the progress chart rather than having separate charts for each machine. We believe this makes the design more simple and gives a better overarching view of when all the laundry will be complete.
 
 Typically, the big red circle that says "Simulate Notification" will not be there. This is there in order to simulate what would happen when a machine finishes its cycle. Once a users machine is done, it will send them a notification that looks like this:
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/washer_notif.png?raw=true)
 
-The notification will alert the user that their machine is done and that they need to return to get their clothes. We decided to include this because the majority of our users said that they leave the laundromat once they start their laundry. Since most users will not be around when their machines are complete, we thought this was the perfect way to alert them that their laundry is done and they need to get back. This helps save the user some time, but it also will help the laundromat to keep their customers cycling in and out quicker which makes them more money. This idea was also specifically inspired from our scenario with Gina. Gina is a stay at home mom and is always on the move, so forgetting about laundry would be very easy to do. A notfication would help to remind her about her laundry while shes running around taking care of her children.
+The notification will alert the user that their machine is done and that they need to return to get their clothes. We decided to include this because the majority of our users said that they leave the laundromat once they start their laundry. Since most users will not be around when their machines are complete, we thought this was the perfect way to alert them that their laundry is done and they need to get back. This helps save the user some time, but it also will help the laundromat to keep their customers cycling in and out quicker which makes them more money. This idea was also specifically inspired from our scenario with Gina. Gina is a stay at home mom and is always on the move, so forgetting about laundry would be very easy to do. A notification would help to remind her about her laundry while she's running around taking care of her children.
 
-We also have wireframes that simulate the rest of this users interaction. The pictures below show what that would look like:
+We also have wireframes that simulate the rest of this user's interaction. The pictures below show what that would look like:
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/dryer_prenotif.png?raw=true) ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/dryer_notif.png?raw=true) 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/home.png?raw=true)
@@ -52,7 +52,7 @@ We also have wireframes that simulate the rest of this users interaction. The pi
 Once all of the users machines are completed, they will be returned to the home page to add more machines if necessary. We designed it this way because in our user research, we learned that most users will do multiple loads in one day, and this makes it easier for them to do this.
 
 
-Lastly, we have our "Stats" section that can be accessed from any other page. This section helps the user to learn about their habits doing laundry, such as their most visited store or average time spents doing laundry. We included this section because we learned from our user research that most people who use laundry mats are students or low income families. We felt like these types of users would be interested in things like how long they typically take at the laundromat in order to plan around it. 
+Lastly, we have our "Stats'' section that can be accessed from any other page. This section helps the user to learn about their habits doing laundry, such as their most visited store or average time spent doing laundry. We included this section because we learned from our user research that most people who use laundromats are students or low income families. We felt like these types of users would be interested in things like how long they typically take at the laundromat in order to plan around it. 
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/stats.png?raw=true)
 
