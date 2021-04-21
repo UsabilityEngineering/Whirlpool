@@ -42,7 +42,7 @@ The problem space we chose to work on is laundry. Everybody hates doing laundry,
 # Phase 2: Interaction Design
 
 **_Executive summary:_**
-
+* Created wireframe and prototype to model our laundry mobile application
 
 [Full phase 2 report](phase2/)
 
