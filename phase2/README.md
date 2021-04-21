@@ -17,6 +17,11 @@ Once the user selects a store, it opens up that specific stores information. Inc
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/reserve.png?raw=true)
 
+If a user has already reserved machines in one store, they will not be allowed to reserve more machines at a different store. They are still able to view the other stores and their availablity, however if they go to the reserve page it will not let them reserve more machines, this view is shown below:
+
+![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/no_reserve.png?raw=true)
+
+
 Users are not required to reserve any machines, however it will ensure that there will be machines ready for them when they get there. Whether the user reserved a machine or not, they will add the machine to their list in the same way. To add a machine, the user must simply press the plus button on the home page and take a picture of a QR code on the machine of their choice. The view of what this looks like is shown below.
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/pic_screen.png?raw=true)
