@@ -4,7 +4,6 @@
 
 This page contains screenshots of our wireframes. Each screen is represented here, however in the prototype some screens have duplicates to allow for a full interactive experience. We will describe why we chose to include each screen below.
 
-
 The screen below is the starting page for our mobile app. The bottom navigation bar is how users will traverse the different sections of our app. The "Res" section is used to reserve machines at different laundromats, the "Home" section is where users can add machines and monitor their progress, and the "Stats" section is for users to see different statistics about their laundry habits.
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/home.png?raw=true)
@@ -13,14 +12,13 @@ If a user wants to reserve a machine, they can click on the "Res" section of the
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/stores.png?raw=true)
 
-Once the user selects a store, it opens up that specific store's information. Included in this information is a map of the store that will be color coded to show open and occupied machines. Below the map is a list of open machines, the user can select which machines they need in order to reserve them. Once they select their machines and click Done, the users machines will be reserved for one hour and they are redirected to the home page. The reservation page is shown below:
+Once the user selects a store, it opens up that specific store's information. Included in this information is a map of the store that will be color coded to show open and occupied machines. We included a map because it adds a level of convience for the user, they do not have to walk around the store to find their machine, we show them right where it is. Below the map is a list of open machines, the user can select which machines they need in order to reserve them. Once they select their machines and click Done, the users machines will be reserved for one hour and they are redirected to the home page. The reservation page is shown below:
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/reserve.png?raw=true)
 
 If a user has already reserved machines in one store, they will not be allowed to reserve more machines at a different store. They are still able to view the other stores and their availability, however if they go to the reserve page it will not let them reserve more machines, this view is shown below:
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/no_reserve.png?raw=true)
-
 
 Users are not required to reserve any machines, however it will ensure that there will be machines ready for them when they get there. Whether the user reserved a machine or not, they will add the machine to their list in the same way. To add a machine, the user must simply press the plus button on the home page and take a picture of a QR code on the machine of their choice. The view of what this looks like is shown below.
 
@@ -49,13 +47,11 @@ We also have wireframes that simulate the rest of this user's interaction. The p
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/dryer_prenotif.png?raw=true) ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/dryer_notif.png?raw=true) 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/home.png?raw=true)
 
-Once all of the users machines are completed, they will be returned to the home page to add more machines if necessary. We designed it this way because in our user research, we learned that most users will do multiple loads in one day, and this makes it easier for them to do this.
+Once all of the users machines are completed, the user will be returned to the home page to add more machines if necessary. We designed it this way because in our user research, we learned that most users will do multiple loads in one day and this makes it easier for them to do this.
 
-
-Lastly, we have our "Stats'' section that can be accessed from any other page. This section helps the user to learn about their habits doing laundry, such as their most visited store or average time spent doing laundry. We included this section because we learned from our user research that most people who use laundromats are students or low income families. We felt like these types of users would be interested in things like how long they typically take at the laundromat in order to plan around it. 
+Lastly, we have our "Stats" section that can be accessed from any other page. This section helps the user to learn about their habits doing laundry, such as their most visited store or average time spent doing laundry. We included this section because we learned from our user research that most people who use laundromats are students or low income families. We felt like these types of users would be interested in things like how long they take or how much they spend typically at the laundromat. 
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/stats.png?raw=true)
-
 
 Overall, we designed our wireframes to be as simple and user friendly as possible while still considering our user research data and personas/scenarios. We believe that this design is easy to use and includes several design aspects that will make it simpler for our target audience to use.
 
