@@ -52,5 +52,6 @@ Lastly, we have our "Stats" section that can be accessed from any other page. Th
 ## Supplementary Materials
 
 [Comprehensive Wireframes](wireframes.md)
+
 [Prototype Draft](https://xd.adobe.com/view/72935f84-d459-4b12-a4e3-f2c125af0e65-27c0/)
 
