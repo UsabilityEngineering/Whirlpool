@@ -26,7 +26,7 @@ Users are not required to reserve any machines, however it will ensure that ther
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/pic_screen.png?raw=true)
 
-We decided to do the adding of machines this way because it is simple and easy. From our user research data, we learned that some of our previous features were seen as too complicated and confusing to use. Our users said they would prefer starting their laundry to be quick and easy rather than compicated with extra features, so that is what we went with here. 
+We decided to do the adding of machines this way because it is simple and easy. From our user research data, we learned that some of our previous features were seen as too complicated and confusing to use. Our users said they would prefer starting their laundry to be quick and easy rather than compicated with extra features, so that is what we went with here. Along with that, our personas helped us realize that not everyone who uses this app will be very tech savvy, so taking a picture of a QR code and letting the computer do the work is the best way to avoid any human errors.
 
 Once a machine's QR code has been scanned, it will be added to the home page to track its progress. From our user research, we learned that over half of our research participants use a timer to keep track of their laundry. That inspired us to create this progress chart which tells the user how close their laundry is to being complete. This view is shown below:
 
@@ -42,7 +42,7 @@ Typically, the big red circle that says "Simulate Notification" will not be ther
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/washer_notif.png?raw=true)
 
-The notification will alert the user that their machine is done and that they need to return to get their clothes. We decided to include this because the majority of our users said that they leave the laundromat once they start their laundry. Since most users will not be around when their machines are complete, we thought this was the perfect way to alert them that their laundry is done and they need to get back. This helps save the user some time, but it also will help the laundromat to keep their customers cycling in and out quicker which makes them more money. 
+The notification will alert the user that their machine is done and that they need to return to get their clothes. We decided to include this because the majority of our users said that they leave the laundromat once they start their laundry. Since most users will not be around when their machines are complete, we thought this was the perfect way to alert them that their laundry is done and they need to get back. This helps save the user some time, but it also will help the laundromat to keep their customers cycling in and out quicker which makes them more money. This idea was also specifically inspired from our scenario with Gina. Gina is a stay at home mom and is always on the move, so forgetting about laundry would be very easy to do. A notfication would help to remind her about her laundry while shes running around taking care of her children.
 
 We also have wireframes that simulate the rest of this users interaction. The pictures below show what that would look like:
 
