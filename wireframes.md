@@ -1,6 +1,6 @@
 # Wireframes
 
-#### These are pictures of our comprehensive wireframes, explanations are 
+#### These are pictures of our comprehensive wireframes, explanations are in the phase 2 folder.
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/comp_one.png?raw=true)
 
