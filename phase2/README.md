@@ -5,7 +5,7 @@
 This page contains screenshots of our wireframes. Each screen is represented here, however in the prototype some screens have duplicates to allow for a full interactive experience. We will describe why we chose to include each screen below.
 
 
-The screen below is the starting page for our mobile app. The bottom navigation bar is how users will traverse the different sections of our app. The "Res" section is used to reserve machines at different laundromats, the "Home" section is where users can add machines that they are using and monitor their progress, and the "Stats" section is for users to see different statistics about their laundry habits.
+The screen below is the starting page for our mobile app. The bottom navigation bar is how users will traverse the different sections of our app. The "Res" section is used to reserve machines at different laundromats, the "Home" section is where users can add machines and monitor their progress, and the "Stats" section is for users to see different statistics about their laundry habits.
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/home.png?raw=true)
 
