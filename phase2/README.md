@@ -23,11 +23,11 @@ Users are not required to reserve any machines, however it will ensure that ther
 
 We decided to do the adding of machines this way because it is simple and easy. From our user research data, we learned that some of our previous features were seen as too complicated and confusing to use. Our users said they would prefer starting their laundry to be quick and easy rather than compicated with extra features, so that is what we went with here. 
 
-Once a machine's QR code has been scanned, it will be added to the home page. This view is shown below:
+Once a machine's QR code has been scanned, it will be added to the home page to track its progress. This view is shown below:
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/washer_home.png?raw=true)
 
-If the users need more than one machine, they can simply press the plus button and scan another machine. If this user required a drier as well, this is what it would look like after scanning the driers QR code:
+If the users need more than one machine, they can simply press the plus button again and scan another machine. If this user required a drier as well, this is what it would look like after scanning the driers QR code:
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/washer_prenotif.png?raw=true)
 
