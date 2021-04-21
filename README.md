@@ -44,6 +44,8 @@ The problem space we chose to work on is laundry. Everybody hates doing laundry,
 **_Executive summary:_**
 * Created **wireframe and prototype** to model our laundry mobile application
 * Used our **user research data** and our **personas/scenarios** in order to gain more insight for our design
+* We designed our wireframes with our **target audience** in mind
+* Our prototype is **comprehensive** and includes all functionality
 
 [Full phase 2 report](phase2/)
 
