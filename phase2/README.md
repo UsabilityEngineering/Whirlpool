@@ -44,8 +44,7 @@ The notification will alert the user that their machine is done and that they ne
 
 We also have wireframes that simulate the rest of this users interaction. The pictures below show what that would look like:
 
-![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/dryer_prenotif.png?raw=true) ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/dryer_notif.png?raw=true)
-
+![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/dryer_prenotif.png?raw=true) ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/dryer_notif.png?raw=true) 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/home.png?raw=true)
 
 
