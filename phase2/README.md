@@ -48,3 +48,8 @@ Lastly, we have our "Stats" section that can be accessed from any other page. Th
 
 ![alt text](https://github.com/UsabilityEngineering/Whirlpool/blob/master/phase2/Pictures/stats.png?raw=true)
 
+
+## Supplementary Materials
+
+
+
