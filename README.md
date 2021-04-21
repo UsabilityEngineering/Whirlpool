@@ -11,7 +11,7 @@ The problem space we chose to work on is laundry. Everybody hates doing laundry,
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas-scenarios.md)
-* [Wireframes](wireframe.md)
+* [Wireframes](wireframes.md)
 * [Prototype](https://xd.adobe.com/view/72935f84-d459-4b12-a4e3-f2c125af0e65-27c0/) - Draft
 
 # Phase 1: Requirements Gathering
