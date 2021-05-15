@@ -1,6 +1,6 @@
 # Whirlpool: Laundry Device
 
-The problem space we chose to work on is laundry. Everybody hates doing laundry, so our goal is create a new device that makes doing laundry easier and more efficient.
+The problem space we chose to work on is laundry. Everybody hates doing laundry, so our goal is create a new application that makes doing laundry easier and more efficient. The purpose of our product is to allow users to reserve laundry machines, track their laundry progress, and to make their overall laundry experience a better one.
 
 ## Team Members
 
