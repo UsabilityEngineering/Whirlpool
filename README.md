@@ -1,4 +1,4 @@
-# Whirlpool
+# Whirlpool: Mobile Application
 
 The problem space we chose to work on is laundry. Everybody hates doing laundry, so our goal is create a new application that makes doing laundry easier and more efficient. The purpose of our product is to allow users to reserve laundry machines, track their laundry progress, and to improve their overall laundry experience.
 
