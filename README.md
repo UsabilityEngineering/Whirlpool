@@ -54,6 +54,7 @@ The problem space we chose to work on is laundry. Everybody hates doing laundry,
 
 # Phase 3: Usability Evaluation
 
-*Coming Soon*
+**_Executive summary:_**
+* Start here
 
 [Full phase 3 report](phase3/)
