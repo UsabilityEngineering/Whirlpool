@@ -6,7 +6,7 @@ The problem space we chose to work on is laundry. Everybody hates doing laundry,
 
 * [**Kyle Handy**](https://usabilityengineering.github.io/ux-portfolio-khandy7/) - Executive Summary, Personas/Scenarios, and Wireframe/Prototype
 * **Kyle Rhoads** - Executive Summary, Conclusion/Caveats, and Wireframe/Prototype
-* **Eric DeMoney** - Methods and Findings
+* [**Eric DeMoney**](https://usabilityengineering.github.io/ux-portfolio-erdemoney/) - Methods and Findings
 
 # User-Centered Design Artifacts
 
