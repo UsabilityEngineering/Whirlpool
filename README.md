@@ -55,6 +55,10 @@ The problem space we chose to work on is laundry. Everybody hates doing laundry,
 # Phase 3: Usability Evaluation
 
 **_Executive summary:_**
-* Start here
+* Created a **protocol** to for use in our usability test
+* Explained our **protocol** in detail including what each **task and question** accomplishes
+* Explained why we decided to use a **think-aloud** approach to our study
+* Created a **spreadsheet** based on our protocol that will serve as the place to **collect data and take notes** during the usability study
+* Updated our **prototype** to be more user friendly
 
 [Full phase 3 report](phase3/)
