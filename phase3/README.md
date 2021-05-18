@@ -26,4 +26,4 @@ We wanted to make note of some changes we made to our prototype since the last p
 
 * [Protocol](SupportingMaterials/Protocol.pdf)
 * [Protocol Data](https://docs.google.com/spreadsheets/d/1nFU7jRKpZCLWjEWGuDZvNMgjDiB2P7lUNMw48olUvVg/edit?usp=sharing)
-* [Prototype](https://xd.adobe.com/view/72935f84-d459-4b12-a4e3-f2c125af0e65-27c0/)
+* [Prototype](https://xd.adobe.com/view/ad1e32e7-b8b5-46a5-afdd-38d8718e8b01-f84d/?fullscreen)
