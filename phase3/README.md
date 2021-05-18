@@ -1,6 +1,6 @@
 ## Phase 3: Usability Evaluation
 
-## Protocol
+## [Protocol](SupportingMaterials/Protocol.pdf)
 
 #### **Overall Approach**
 For our protocol, we decided to go with a think-aloud summative approach. We chose to use a think-aloud approach because we believe that knowing what is going on in the user's head as they are doing it will provide us with the most useful data. Our app does not require precise timing, so we decided that timing the user was unnecessary. Along with this, we chose to do a summative approach because we think that with the type of data we will be collecting, it will yield the best results. We will have lots of descriptive data by the end of the study, so a summative approach allows us to analyze all that data at the end and make any necessary changes to the design that the users disliked.
@@ -18,7 +18,7 @@ Our last task puts the participant in the shoes of someone who has already reser
 
 For our wrap up section, we ask the participant some pretty standard questions. We ask what they liked most and least about the app and if there are any other features they would enjoy. We ask them these questions to get general feedback about the app. We want to know what people liked, disliked, or if they thought we were missing something so that we can improve our design in the future. After those questions, we ask specifically about our reservations page and if they see any changes they would make on there. We do this to see if our design for that page makes sense to users. Lastly, we ask if there are any final thoughts to see if the participant has anything left to say before the study concludes.
 
-## Prototype
+## [Prototype]((https://xd.adobe.com/view/72935f84-d459-4b12-a4e3-f2c125af0e65-27c0/))
 
 We wanted to make note of some changes we made to our prototype since the last phase of development. First of all, we changed our "Stats" page to be a "Notifications" page. We felt that this made more sense for our app to have a section where you can see the actual times of when your laundry will be done. Another change we made was the names listed on the bottom navigation bar. The names were hard to fit there, so we decided to switch them with symbols that represent the names. We think this makes the UI look more slick without taking away from the learnability of it.
 
