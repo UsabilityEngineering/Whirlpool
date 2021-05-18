@@ -18,7 +18,9 @@ Our last task puts the participant in the shoes of someone who has already reser
 
 For our wrap up section, we ask the participant some pretty standard questions. We ask what they liked most and least about the app and if there are any other features they would enjoy. We ask them these questions to get general feedback about the app. We want to know what people liked, disliked, or if they thought we were missing something so that we can improve our design in the future. After those questions, we ask specifically about our reservations page and if they see any changes they would make on there. We do this to see if our design for that page makes sense to users. Lastly, we ask if there are any final thoughts to see if the participant has anything left to say before the study concludes.
 
+## Prototype
 
+We wanted to make note of some changes we made to our prototype since the last phase of development. First of all, we changed our "Stats" page to be a "Notifications" page. We felt that this made more sense for our app to have a section where you can see the actual times of when your laundry will be done. Another change we made was the names listed on the bottom navigation bar. The names were hard to fit there, so we decided to switch them with symbols that represent the names. We think this makes the UI look more slick without taking away from the learnability of it.
 
 ## Supplementary Materials
 
