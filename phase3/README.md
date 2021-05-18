@@ -2,10 +2,10 @@
 
 ## Protocol
 
-#### Overall Approach
+#### **Overall Approach**
 For our protocol, we decided to go with a think-aloud summative approach. We chose to use a think-aloud approach because we believe that knowing what is going on in the user's head as they are doing it will provide us with the most useful data. Our app does not require precise timing or anything of that sort, so we decided that timing the user was unnecessary. Along with this, we chose to do a summative approach because we think that with the type of data we will be collecting, it will yield the best results. We will have lots of descriptive data by the end of the study, so a summative approach allows us to analyze all that data at the end and make any necessary changes to the design that the users disliked.
 
-#### Question and Task Explanation
+#### **Question and Task Explanation**
 
 Our protocol begins with a standard introduction. Following the user giving informed consent, we briefly explain to them what we will be doing in this study. Specifically, we mention that we are not testing the user's skills, but rather our software on the mobile app. We also make sure to tell them that the study will be video recorded and that we will delete the video at the end of the study. Along with all this, we make sure to mention to the participant that this is a "think-aloud" study, so they should let us know what they are thinking as they are doing it on the mobile app. Lastly, we ask the participant if they have any last questions before the study begins.
 
