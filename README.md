@@ -12,7 +12,7 @@ The problem space we chose to work on is laundry. Everybody hates doing laundry,
 
 * [Personas and Scenarios](personas-scenarios.md)
 * [Wireframes](wireframes.md)
-* [Prototype](https://xd.adobe.com/view/72935f84-d459-4b12-a4e3-f2c125af0e65-27c0/)
+* [Prototype](https://xd.adobe.com/view/ad1e32e7-b8b5-46a5-afdd-38d8718e8b01-f84d/?fullscreen)
 
 # Phase 1: Requirements Gathering
 
