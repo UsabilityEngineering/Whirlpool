@@ -59,5 +59,5 @@ Overall, we designed our wireframes to be as simple and user friendly as possibl
 
 [Comprehensive Wireframes](https://github.com/UsabilityEngineering/Whirlpool/blob/master/wireframes.md)
 
-[Prototype Draft](https://xd.adobe.com/view/72935f84-d459-4b12-a4e3-f2c125af0e65-27c0/)
+[Prototype Draft](https://xd.adobe.com/view/ad1e32e7-b8b5-46a5-afdd-38d8718e8b01-f84d/?fullscreen)
 
